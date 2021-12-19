@@ -5,6 +5,6 @@
 ```
 git clone https://github.com/yooniron/test-vue-final.git 
 npm install
-npm run serve
+npm run dev
 npm run build
 ```
